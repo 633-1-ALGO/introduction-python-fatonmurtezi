@@ -1,4 +1,4 @@
-# Exemples de traitement de string
+()# Exemples de traitement de string
 N = 12
 a = 1
 test = "Bonjour"
