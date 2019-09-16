@@ -3,3 +3,15 @@
 # Résultat attendu : Le tableau B trié
 
 B = [2, 6, 8, 5, 4, 12, 98, 34, 1]
+
+cpt = 0
+for i in range:
+    for j in range (1,len(B)):
+        if B[i] > B[j]:
+            print()
+
+
+
+
+
+
