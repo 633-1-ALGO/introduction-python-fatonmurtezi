@@ -7,6 +7,7 @@ total = 0
 for element in A:
     total = total + element
 
+
 moyenne = total/len(A)
 
 print(moyenne)
